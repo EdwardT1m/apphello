@@ -1,7 +1,7 @@
 # Simple python3-flask application
 
 ## How to use?
-`` $ git clone https://github.com/EdwardT1m/apphello.git ``  
+`` $ git clone https://github.com/The-Edward/apphello.git ``  
 `` $ cd apphello/ ``  
 `` $ docker network create dev_network ``  
 `` $ docker-compose up -d ``  
